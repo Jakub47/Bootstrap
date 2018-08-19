@@ -3,10 +3,7 @@ body
     font-family: 'Arvo', serif;
 }
 
-.heihgt
+.height
 {
-    /* height: 1000px; */
-    
-    /* Doesn't matter content i will always want some minimum height */
     min-height: 100vh;
 }
